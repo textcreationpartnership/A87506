@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The jubilie of England. From Nasebie to the Mount in Cornwall, and round about: telling of the righteous and glorious acts of the Lord, done for us within the circle of the yeere now past. Naming the moneths and dayes wherein they were done, which are fot [sic] ever memorable. The Epocha to be in June 14. 1646.</title>
+            <author>I. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87506</idno>
+            <idno type="STC">Wing J50</idno>
+            <idno type="STC">Thomason E510_8</idno>
+            <idno type="STC">ESTC R205611</idno>
+            <idno type="EEBO-CITATION">99864940</idno>
+            <idno type="PROQUEST">99864940</idno>
+            <idno type="VID">117173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117173)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 80:E510[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The jubilie of England. From Nasebie to the Mount in Cornwall, and round about: telling of the righteous and glorious acts of the Lord, done for us within the circle of the yeere now past. Naming the moneths and dayes wherein they were done, which are fot [sic] ever memorable. The Epocha to be in June 14. 1646.</title>
+                  <author>I. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Bartlet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.I.</note>
+                  <note>Annotation on Thomason copy: "July 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117173:1" rendition="simple:additions"/>
+            <p>THE JUBILIE OF ENGLAND.</p>
+            <p>From NASEBIE to the Mount in CORNWALL, and round about: telling of the righteous and glorious Acts of the Lord, done for us within the Circle of the yeere now paſt.</p>
+            <p>Naming the Moneths and Dayes wherein they were done, which are for ever memorable.</p>
+            <p>The <hi>Epocha</hi> to be in <hi>June</hi> 14. 1646.</p>
+            <q>Beware that thou forget not, <bibl>Deut. 8.11.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Bartlet.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117173:2"/>
+            <pb n="1" facs="tcp:117173:2"/>
+            <head>The JUBILE of <hi>England.</hi>
+            </head>
+            <p>JUne 13. 1645. Sol in Cancer, the happieſt Tropike that we have ſeene in our dayes. 14. The glorious victory at <hi>Naisby,</hi> when the Lord magnified his ſervant FAIRFAX, and gave an earneſt of fur<g ref="char:EOLhyphen"/>ther mercies: Arms taken 9000. 2000 Horſe, priſoners 4540. 12. Ord<g ref="char:EOLhyphen"/>nance, Letters for diſcovery, ſundry Knights and Colonels brought in afterwards. 18. <hi>Leicester</hi> regained, 14. Ordnance, 30. Colours, 2000. Armes, 500. Horſes, 50. barrels of powder: A great mercy, as the loſſe was unexpreſſible. 23. Caſtles in <hi>Shropſhire</hi> rendred, <hi>Caus, Stoke</hi> and <hi>Shrawarden.</hi> 28. <hi>Carlile</hi> rendred, 20. Ordnance, 1000. Armes. <hi>High<g ref="char:EOLhyphen"/>worth</hi> Garriſon taken, 100. Armes, &amp;c. Horſes in divers parts taken: 100.60.50.45.60. or 70.</p>
+            <p>July 5. 1645. <hi>Taunton</hi> the ſecond time mightily relieved. <hi>Ilcheſter</hi> Garriſon taken. 9. &amp; 10. Victory at <hi>Langport</hi> againſt <hi>Goring,</hi> ſun<g ref="char:EOLhyphen"/>dry Colonels taken, 2000. priſoners, 2000. Horſes, 4000. Armes, Co<g ref="char:EOLhyphen"/>lours of Horſe 35. of Foot 21. two great Ordnance, thirty of their Re<g ref="char:EOLhyphen"/>giments broken, and <hi>Langpart</hi> Garriſon taken. 14. <hi>Burroughs</hi> Garriſon taken. 21, 22. <hi>Bridgewater</hi> ſtormed and taken; a mighty piece. <hi>Ponte<g ref="char:EOLhyphen"/>fract</hi> Caſtle yeelded to the Parliament. <hi>Frome-Cannon</hi> taken by ſtorme of the Scots. Small Garriſons neer <hi>Bridgewater</hi> quitted. 23. <hi>Raby</hi> Ca<g ref="char:EOLhyphen"/>ſtle ſurrendred to the Parliament. <hi>Chadwick-houſe,</hi> a ſtrong Garriſon, taken by the <hi>Lyme-men.</hi> 25. <hi>Searborough</hi> Caſtle ſurrendred to the Par<g ref="char:EOLhyphen"/>liament. 28. <hi>Bath</hi> yeelded up to the Parliament, 6. Ordnance, &amp;c. 80. Horſe of the Kings Life-guard taken: Club-men of <hi>Somerſetſhire</hi> quieted.</p>
+            <p>Auguſt 3. 1645. Leaders of Club-men in <hi>Dorſetſhire</hi> taken at <hi>Shafts<g ref="char:EOLhyphen"/>bury,</hi> the whole 51. of them. 4. Club-men there routed, 2000. Armes taken, 300. men. Victory over <hi>Gerard</hi> neer <hi>Haverford</hi>-weſt, 4. Ord<g ref="char:EOLhyphen"/>nance taken, 800. Armes, 700. priſoners, &amp;c. 5. <hi>Haverford</hi> weſt ta<g ref="char:EOLhyphen"/>ken, Towne and Caſtle, 20. Commanders. <hi>Yonghall</hi> relieved; a great mercy. <hi>Sligo</hi> taken, 150. Horſes; ſundry Caſtles. 15. <hi>Sherborne</hi> Caſtle ſtormed, taken and demoliſhed; in it ſixteen Ordnance taken, many Officers, &amp;c. 28. <hi>For<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> point</hi> taken, 6. Ordnance, 200. Armes. <hi>Garew</hi> Caſtle taken, and <hi>Nunny</hi> Caſtle, and divers other in <hi>Shropſhire.</hi>
+            </p>
+            <p>September 11, 1645. <hi>Bristoll</hi> ſtormed and ſurrendred to the Parlia<g ref="char:EOLhyphen"/>ment; Think how great ſtrength and wealth, and what a mercy, not
+<pb n="2" facs="tcp:117173:3"/>
+eaſily dived into: Oh Love the Lord, &amp;c. 13. <hi>Montroſſe</hi> routed and <hi>Scotland</hi> revived; A wonder! Let the Kingdomes ſtudy thankful<g ref="char:EOLhyphen"/>neſſe. 23. <hi>Devizes</hi> Caſtle taken, 300 Armes, ſome Ordnance, &amp;c. and <hi>Lacock-houſe; Cardiffe</hi> Caſtle taken, 16 Ordnance, 400 Armes, and <hi>Pick<g ref="char:EOLhyphen"/>ton</hi> Caſtle in <hi>Pembrokeſhire.</hi> 24. The Cavaliers routed at <hi>Rowton-Heath,</hi> 11 Colours taken, with other Officers, 2000 Horſes, 1500 priſoners, &amp;c. <hi>Berkly</hi> Caſtle ſtormed and ſurrendred to the Parliament.</p>
+            <p>October 1. 1645. <hi>Sandall</hi> Caſtle, a ſtrong place, after a long ſiege, de<g ref="char:EOLhyphen"/>livered to the Parliament. 6. <hi>Winchester</hi> City and Caſtle yeelded to the Parliament, 7 Ordnance taken, 700 Armes, with great proviſions. 11. <hi>Chepſtow</hi> Town and Caſtle taken by compoſition, 17 Ordnance, 200 Armes, and proviſions. 12. <hi>Carmarthen</hi> Towne and Caſtle delivered to the Parliament. 14. <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zing-houſe</hi> taken by ſtorme, with 10 Ordnance, 2000 Armes, 200 Horſe, &amp;c. burnt to the ground. 15. Lord <hi>Digby</hi> and <hi>Langdale</hi> routed at <hi>Sherborne</hi> in <hi>Yorkeſhire,</hi> 600 Horſes taken, Colonels, Officers, &amp;c. with <hi>Digbies</hi> Cabinet and Letters. 18. <hi>Langford-houſe</hi> deli<g ref="char:EOLhyphen"/>vered to the Parliament. 19. <hi>Tiverton</hi> taken by ſtorme and ſtrange pro<g ref="char:EOLhyphen"/>vidence, 4 Ordnance, and divers Officers. 24. <hi>Monmouth</hi> and its Caſtle delivered to the Parliament, 7 Ordnance, 4 ſling pieces, 300 Muskets, &amp;c. Item, <hi>Digby</hi> and <hi>Langdale</hi> againe routed at <hi>Carlile-ſands,</hi> 200 Horſes taken, with Officers, &amp;c. 27. <hi>Shelford-houſe</hi> taken by ſtorme, with Arms and Ammunition.</p>
+            <p>November 1. 1645. Victory at <hi>Denbigh</hi> over Sir <hi>William Naughan,</hi> 600 Horſes taken, 400 priſoners, &amp;c. 6. <hi>Bolton</hi> Caſtle neer <hi>Newark</hi> delivered to the Parliament, and <hi>Welbeck-houſe</hi> ſlighted. 10. <hi>Werton-houſe</hi> delive<g ref="char:EOLhyphen"/>red to the Parliament. 16. <hi>Beeston</hi> Caſtle delivered to the Parliament, a very ſtrong piece, and long beſiged.</p>
+            <p>December 7. <hi>Latham-houſe,</hi> very ſtrong, delivered to the Parliament, and <hi>Fulford-houſe</hi> in the Weſt. 18. <hi>Hereford</hi> ſurprized, 11 Ordnance, one Lord, 14 Knights. 20. <hi>Skipton</hi> Caſtle taken, 7 Ordnance, 300 Armes, 100 Horſes; and <hi>Callitine-houſe</hi> neer <hi>Exeter,</hi> a Troope, Armes and Am<g ref="char:EOLhyphen"/>munition; and <hi>Poulderham-houſe. Plymmouth</hi> releeved; <hi>Canterbury</hi> Fort taken, Saint <hi>Budeaux</hi> Church neer <hi>Plymmouth,</hi> and Sir <hi>Francis Drakes</hi> houſe.</p>
+            <p>Victory in <hi>Ireland,</hi> and at <hi>Andernaſſe</hi> in <hi>Scotland.</hi>
+            </p>
+            <p>January 7. 1645. Sir <hi>Thomas Fairfax</hi> takes 800 Horſes at times. 19. <hi>Dartmouth</hi> taken, 120 Ordnance mounted, 2 men of war, Lord <hi>Newport</hi> the Governour, and many Officers, 800 common Souldiers, &amp;c. 25. <hi>Poulderham</hi> Caſtle delivered to the Parliament. 29. <hi>Belvoir</hi> Caſtle deli<g ref="char:EOLhyphen"/>vered to the Parliament, 8 Ordnance, 2 murdering pieces, &amp;c. <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi> about this time in danger to be loſt, but preſerved, as alſo <hi>Wareham.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:117173:3"/>February 3. <hi>Chester</hi> delivered to the Parliament, with great ſtrength and wealth. 16. Victory at <hi>Torrington,</hi> 3000 Armes, 300 Horſes, 600 priſones; <hi>Hoptons</hi> Infantry taken, ſlaine, or wholly routed, his Bag and Baggage taken, and his Magazine blowne up. 20. Revolting <hi>Karne</hi> overthrowne at <hi>Cardiſſe,</hi> 200 ſlaine, 800 priſoners, the Army routed 25. Victory at <hi>Stratton</hi> in <hi>Cornwall,</hi> 300 Horſes taken, 80 priſoners, and <hi>Tamer-bridge.</hi> 26. <hi>Launceston</hi> taken, the enemies Magazine, and above 20 Horſes. 27. <hi>Corfe</hi> Caſtle taken, 4 Ordnance, 300 Armes, 30 Horſes 155 priſoners.</p>
+            <p>March 2. <hi>Abbingdon</hi> in great danger, but mercifully delivered by a gallant repulſe to Prince <hi>Rupert,</hi> and 200 who had entred. 3. <hi>Aſhby<g ref="char:EOLhyphen"/>delazouch</hi> yeelded, and ſlighted, 5 Ordnance, 300 Arms, and good pro<g ref="char:EOLhyphen"/>viſions. 8. <hi>Bodmin</hi> taken, 200 Priſoners, 2 or 300 Horſes: <hi>Corniſh</hi> Gen<g ref="char:EOLhyphen"/>tlemen and Officers ſubmit, 35, 40, 100, 96, 12, great mercies every day. 13. <hi>Peurin</hi> delivered to the Parl. with Colonell <hi>Trevanion,</hi> &amp;c. and Saint <hi>Mawes,</hi> with 13 Ordnance, Armes, &amp;c. 14. <hi>Hoptons</hi> Army diſſol<g ref="char:EOLhyphen"/>ved by compoſition, 2000 Horſes taken, 3 or 4000 Armes: <hi>Harwarden</hi> Caſtle delivered to the Parl. <hi>Inch-houſe</hi> taken, 4 Ordn. 90 Muskets, &amp;c. neer <hi>Plymouth.</hi> 18. <hi>Dennis</hi> Caſtle taken, and <hi>Helford</hi> Haven, 26 Ord. &amp;c. and a <hi>Dunkirk</hi> Frigot, with 26 Ord. 21. Victory at <hi>Stow,</hi> Lord <hi>Aſhley</hi> taken, 500 Horſes, bag and baggage, 1600 priſoners, 202 ſlaine, ſcarce 200 eſcaping of 3000. 24. <hi>Poulderham-Fort</hi> taken, 18 Ordnance &amp;c. 27. <hi>Higharcall</hi> taken, 250 Armes, ſundry Horſes: <hi>Portland</hi> Caſtle taken, 10 Ord. 200 Arms 140 Priſoners.</p>
+            <p>April 1. 1646. <hi>Demiston</hi> Caſtle delivered to the Parli. 6 Ord. Pow<g ref="char:EOLhyphen"/>der 20 Barrels, &amp;c. 3. Colonell <hi>Betſworth</hi> takes 400 enemies neere <hi>Farringdon,</hi> the Towne burnt by the Cavaliers, and <hi>Bridgenorth.</hi> 8. <hi>Ru<g ref="char:EOLhyphen"/>thyn</hi> Caſtle taken. 13. <hi>Exeter</hi> delivered to the Parliament, 75 Ord<g ref="char:EOLhyphen"/>nance, 1500 Muskets, &amp;c. 14. <hi>Barnstable</hi> delivered; and <hi>Aberiſtwith,</hi> with 400 Armes. 16 Saint <hi>Michaels</hi> Mount delivered to the Parlia<g ref="char:EOLhyphen"/>ment, 30 Ordnance, 500 Armes, much Wine. 20. <hi>Tutbury</hi> Caſtle delivered, and <hi>Barton</hi> Garriſon ſlighted. 22. <hi>Dunster</hi> Caſtle delive<g ref="char:EOLhyphen"/>red. 26. <hi>Woodstocke</hi> Mannour delivered, 400 Armes, 40 Horſes. 27. <hi>Bridgenorth</hi> Caſtle delivered to the Parliament, 500 Armes, 50 Horſes; and the KING forſaketh his evill Counſellours at <hi>Oxford.</hi>
+            </p>
+            <p>May 5. 1646. The King goeth to his friends and ours, the Scots before <hi>Newarke.</hi> 8. <hi>Newarke</hi> deliverend to the Parliament, 12 Ord<g ref="char:EOLhyphen"/>nance, 4000 Armes, &amp;c. as alſo <hi>Banbury</hi> Caſtle. 13. <hi>Dudley</hi> Caſtle de<g ref="char:EOLhyphen"/>livered to the Parliament. 16. <hi>Hartlebury</hi> Caſtle delivered, 6. Ord<g ref="char:EOLhyphen"/>nance, 200 Armes, with good proviſions. 19. The King pro<g ref="char:EOLhyphen"/>miſeth to comply fully with his Parliaments of <hi>England</hi> and <hi>Scotland,</hi>
+               <pb n="4" facs="tcp:117173:4"/>
+and commandeth <hi>Montroſſe</hi> w<hi rend="sup">th</hi> the other Rebels in <hi>Scotland</hi> to lay down their Arms: alſo Fort <hi>Charles</hi> at <hi>Salcomb,</hi> a very ſtrong Garriſon, is de<g ref="char:EOLhyphen"/>livered to the Parli. 22, <hi>Radcot-houſe</hi> delivered to the Parli.</p>
+            <p>June 1. 1646. <hi>Ludlow</hi> Towne and Caſtle delivered to the Parli. <hi>Carnarvon</hi> delivered to the Parli. 7. Victory at Sea, 6 Ord. taken, with great Ammunition and proviſion in a Ship 70 Tun; and other at<g ref="char:EOLhyphen"/>chievements againſt Iriſh Rebels, 1 Ship taken, 2 Ordnan. and proviſi<g ref="char:EOLhyphen"/>ons. 10. <hi>Boſtoll-houſe</hi> delivered to the Parli. 5 Ord. 200 Muskets, and good proviſions. 22. <hi>Oxford</hi> City with all Ord. ſtore of powder, and Ammunition, and Victuall. 25. <hi>Farrington</hi> Garriſon delivered up with the Ord. and Ammunition.</p>
+            <p>Now beware of that black Character of the laſt and worſt times, 2 <hi>Tim.</hi> 3.2. <hi>
+                  <g ref="char:V">Ʋ</g>nthankefull, unholy;</hi> whether it be unthankfulneſſe to God, or to men; and thoſe are unthankfull, firſt, who eſteem not mercies to be mercies, as our Malignants, who had rather things had gone proſ<g ref="char:EOLhyphen"/>perouſly on the other ſide: Secondly, who are not the better for great mercies, victories, deliverances, diſcoveries of wicked plots, and preci<g ref="char:EOLhyphen"/>ous favours, partly in poſſeſſion, and partly in expectation; whereas the goodneſſe of God ſhould <hi>lead us to repentance, Rom.</hi> 2.4. Yea, many live as if they were <hi>delivered to all their abominations,</hi> as in former proſpe<g ref="char:EOLhyphen"/>rity, <hi>Jer.</hi> 7.10. Thirdly, who reſt in the means and men, by whom the mercies were ſent; wiſe Counſellours, brave Souldiers, excellent helps, ſo reſting in the arme of fleſh: A carnall glorying. Our rule is, to give God the glory, whatever we think or ſay of the men; as <hi>Judg.</hi> 5.9. <hi>My heart is towards the Governours of Iſrael, that offered themſelves wil<g ref="char:EOLhyphen"/>lingly among the people: Bleſſe ye the Lord.</hi> Fourthly, who take the praiſe and glory of any good unto themſelves; as <hi>Herod</hi> the praiſe of his elo<g ref="char:EOLhyphen"/>quence, <hi>Acts</hi> 12.23. Neither God nor their brethren, but themſelves muſt be magnified; whereas the godly have ever been carefull to put it off from themſelves, ſaying, <hi>Not unto us, O Lord, not unto us, but unto thy Name give glory, for thy mercy and for thy truths ſake,</hi> Pſal. 115.1.</p>
+            <p>Conſider for motives to thankfulneſſe: Firſt, that the Lord looks for the honour of his great works; as that the cleanſed Leapers ſhould returne unto him; <hi>It is his will in Chriſt Jeſus concerning us,</hi> 1 Theſ. 5.18. Secondly, whereas he loſeth his praiſes among an unbeleeving and car<g ref="char:EOLhyphen"/>nall generation, it is fit he ſhould find it among his faithfull ones; <hi>He inhabits the praiſes of Iſrael,</hi> Pſal. 22.3. if there were not ſome that mind him in his ways, he ſhould loſe the praiſe of his great works altogether. Thirdly, it is not onely the imployment of Saints on earth, but o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:117173:4"/>
+the Saints and Angels in Heaven, <hi>day and night ſinging Hallelujah to him that ſits on the throne,</hi> Revel. 4.8. and certainly, our life is neereſt to per<g ref="char:EOLhyphen"/>fection, when it is neereſt to the life of Heaven. Fourthly, it is due un<g ref="char:EOLhyphen"/>to God, as any mony is due from one man to another, and in honeſty ought to be paid, 2 <hi>Cor.</hi> 8.21. <hi>Provide for honeſt things, not onely in the ſight of the Lord, but in the ſight of men:</hi> Beware of an arreſt from the High Court of Heaven. Fiftly, it is an honeſt and holy policy to get more at the hands of God; namely, if he ſhall ſee us unthankfull for former fa<g ref="char:EOLhyphen"/>vours; as alſo among men, thankfulneſſe for old good turnes, inviteth new: And conſider, Chriſtians, we need now a Crowne to be ſet upon the great works already done for us; even the top-ſtone of the building: We are not yet in <hi>Canaan.</hi>
+            </p>
+            <p>But wherein ſtandeth the due thankfulneſſe?</p>
+            <p>Firſt, in reſpect of God, to be drawne up by theſe his works to a clo<g ref="char:EOLhyphen"/>ſer and neerer communion with him, to fall often into raviſhing ad<g ref="char:EOLhyphen"/>mirations of him, and of his free love to us; to delight our ſelves in him, love him, feare him, honour him, truſt in him for time to come; to wait better upon him, without diſtraction, and ſerve him in truth with all our heart, <hi>conſidering how great things he hath done for us,</hi> 1 Sam. 12.24. All being purpoſely done to lead us neerer to himſelfe; and he is better and greater then any of his works, whatever they be: And the time will be, that himſelfe will be left to us, to be all in all for our bleſſedneſſe; the <hi>Temple</hi> and the <hi>Light, Rev.</hi> 21.22, 23.</p>
+            <p>Secondly, in reſpect of his great works: About which, we read of divers acts of holy men; as firſt, <hi>To have pleaſure in them,</hi> Pſal. 111.2. As the Lord hath pleaſure in the proſperity of his ſervants, ſo his ſervants have pleaſure in him, and in his mercifull dealings with them: ſecondly <hi>To ſeek them out, ibid.</hi> that they may know and be acquainted with them particularly: It ſufficeth not to heare of them by the by, but they will hearken after them: <hi>Eli</hi> ſate by the way ſide, to heare what was become of the Army: thirdly, to obſerve them, as things they meane to record and make an holy uſe of them, Pſal. 107.43. <hi>Who ſo is wiſe, and will obſerve thoſe things, even they ſhall understand the loving kindneſſe of the Lord:</hi> People love to goe forth to ſee ſome great pomp or Pageant that paſſeth by; but the works of God are matters of weight and ſubſtance: fourthly, to <hi>prize</hi> them, as comming from a precious love and counſell of peace by Chriſt, who did greater things for them, and intends to doe more; Pſal. 139.17. <hi>How precious are thy thoughts unto me O God!</hi> and this is the beſt way to breed a reall thankfulneſſe, not the having, but prizing of mercies: fiftly, <hi>to think and meditate</hi> on them at times with raviſhing thoughts, as men more then Conquerours through Chriſt, and enabled to triumph in him over all our enemies; Pſal. 92.4, 5. <hi>Thou Lord haſt
+<pb n="6" facs="tcp:117173:5"/>
+made me glad through thy worke, I will triumph in the works of thy hands; O Lord how great are thy works! and thy thoughts are very deep.</hi> At firſt we conſider them but ſlightly; but this chewing the cud will make a perfecter di<g ref="char:EOLhyphen"/>geſtion. Sixtly, to Remember and have them ſtill in readineſſe, for quickning of thankfulneſſe and other holy uſes above mentioned: Pſal. 105.5. <hi>Remember his mervailous works that he hath done, his wonders, and the judgements of his mouth:</hi> Memory is the treaſury of the ſoule; fit to lay up ſuch Jewels. Seventhly, to <hi>ſpeak of them</hi> ſeverally, ſo far as we can; that others may be edified and excited unto thankfulneſſe, and our children after us may preſerve the memory of them from one Genera<g ref="char:EOLhyphen"/>tion to another: Pſal. 145.6, 7. <hi>Men ſhall ſpeak of the might of thy terrible acts; and I will declare thy greatneſſe: they ſhall abundantly utter the memory of thy great goodneſſe, and ſhall ſing of thy righteouſneſſe.</hi>
+            </p>
+            <p>If ye inſtance in theſe times, tell of <hi>Edge-hill, Marſton-moore, Naſeby, Routen-heath,</hi> and other Victories; and all that power, glory, wiſdom, mercy, juſtice and truth, which the Lord hath cauſed to paſſe before us: Tell of a great enemy ſubdued, great priſoners taken, great Gar<g ref="char:EOLhyphen"/>riſons received, great ſtore of Armes and Ammunition yeelded up: Tell of helliſh and deſperate plots moſt happily prevented: Tell of courage in Souldiers, faithfulneſſe in Sea-men, feare melting and chaſing our enemis, refreſhment to the weary parts of the Kingdome, feares of evil almoſt come to an end, hopes of ſpeciall bleſſings which the Lord hath in ſtore for us, and how in theſe Countries we have eſcaped the miſe<g ref="char:EOLhyphen"/>ries of war, which our Brethren have endured: Tell of Noble Leaders whom God hath raiſed and bleſſed to be inſtruments of our good; of our excellent Parliament; of our ever to be honoured Brethren of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> of loving and free-hearted Londoners; of Forreigners forbearing to intermeddle; of other mercies; and our great unbeliefe all along the triall, incorrigibleneſſe by the rod, unthankfulneſſe in the Cove<g ref="char:EOLhyphen"/>nant, unthankfulneſſe after ſo great favours: review the mercies again, and tell of their ſweetneſſe and uſefulneſſe, their variety, their plenty and multitude, the freeneſſe of conferring them, the ſeaſonableneſſe, the watchfulneſſe of God to take the due time, other commending cir<g ref="char:EOLhyphen"/>cumſtances; willingly loſe your ſelves in relating them, and adoring our great Benefactor; which is the chiefe intent and deſire of the Wri<g ref="char:EOLhyphen"/>ter, and</p>
+            <closer>
+               <signed>Your Remembrancer, W. I.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
